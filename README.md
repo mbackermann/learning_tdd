@@ -1,2 +1,2 @@
 # learning_tdd
-My learning studio about TDD and BDD
+My learning studies about TDD and BDD with Ruby (Rspec)
